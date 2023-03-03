@@ -1,0 +1,29 @@
+*{
+    margin: 1em;
+}
+
+.ventana {
+    background-color: #1a472a;
+    padding-bottom: 1em;
+    padding-top: 1em;
+    color: #fffd69;
+    width: 50%;
+}
+
+.btn {
+    background-color: #42a764;
+    margin-left: 1em;
+    color:  #fffd69;
+}
+
+.custom-select {
+    margin-left: 3em;
+}
+
+.form-group {
+    padding: 1em;
+}
+/* 
+#crearMateria, #crearGrupo, #asignarMaterias {
+    display: none
+} */
